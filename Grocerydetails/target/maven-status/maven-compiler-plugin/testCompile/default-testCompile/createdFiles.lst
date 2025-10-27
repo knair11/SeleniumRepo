@@ -1,0 +1,7 @@
+testscript/AdminUserTest.class
+testscript/HomeTest.class
+testscript/LoginTestCase.class
+login/TestNGBase.class
+reportGeneration/Listeners.class
+retry/Retry.class
+testscript/ManageNewsTest.class
