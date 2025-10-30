@@ -56,7 +56,7 @@ public class TestNGBase {
 		
 	}
 	@AfterMethod(alwaysRun=true)
-	public void ScrrenshotUtility(ITestResult iTestResult) throws IOException
+	public void ScreenshotUtility(ITestResult iTestResult) throws IOException
 				{
 		if(iTestResult.getStatus()==ITestResult.FAILURE) {
 			
