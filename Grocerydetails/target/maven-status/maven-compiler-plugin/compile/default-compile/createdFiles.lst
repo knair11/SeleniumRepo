@@ -1,11 +1,11 @@
-pages/AdminUserPage.class
-pages/HomePage.class
-utilities/ExtentReportUtility.class
-utilities/RandomDataUtility.class
-utilities/Excelutility.class
 constants/Constant.class
 utilities/PageUtility.class
 utilities/WaitUtility.class
 pages/ManageNewsPage.class
+pages/AdminUserPage.class
+pages/HomePage.class
+utilities/ExtentReportUtility.class
+utilities/RandomDataUtility.class
 pages/LoginPage.class
+utilities/Excelutility.class
 utilities/ScreenshotUtility.class
